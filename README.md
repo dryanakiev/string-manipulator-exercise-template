@@ -1,4 +1,4 @@
-# string-manipulator-exercise-template
+# string-manipulator-exercise
 
 Write a StringManipulator class that contains a ReverseString method that takes a string as input and returns the reversed string. For example, if the input string is "hello", the method should return "olleh".
 
